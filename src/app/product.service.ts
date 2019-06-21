@@ -3,7 +3,7 @@ import { Http } from '@angular/http';
 import { Album } from "./album";
 import 'rxjs/add/operator/map';
 import { Observable } from 'rxjs/Observable';
-import { Product } from './Product';
+import { Product } from './product';
 
 
 @Injectable()
