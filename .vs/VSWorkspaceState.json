@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\product-description",
+    "\\src\\app\\product-page",
+    "\\src\\app\\product-tracklisting",
+    "\\src\\assets"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\src\\app\\product-page\\product-page.component.ts",
   "PreviewInSolutionExplorer": false
 }
